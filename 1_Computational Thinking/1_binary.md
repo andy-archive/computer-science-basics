@@ -14,6 +14,8 @@
 
 ![image of input, process and output](https://computersciencewiki.org/images/a/a9/Ipo.png?20170722115047)
 
+[Inputs and outputs - Computer Science Wiki](https://computersciencewiki.org/index.php/Inputs_and_outputs)
+
 바로 문제를 입력(input) 받아 적절한 답안의 출력(output)을 구하는 문제 해결 과정(a process of solving problem)이라 할 수 있다.
 
 <br><br>
@@ -41,6 +43,8 @@
 즉,100의 자리, 10의 자리, 1의 자리를 나누어 각각의 자리에 곱셈을 더해서 나타낸다.
 
 이를 십진법(decimal)이라 한다.
+
+<br><br>
 
 ### 📌이진법을 통한 정보의 표현
 
